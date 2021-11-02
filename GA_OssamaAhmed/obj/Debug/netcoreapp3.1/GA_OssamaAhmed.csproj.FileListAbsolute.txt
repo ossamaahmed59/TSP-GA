@@ -1,0 +1,28 @@
+C:\Users\ossama59\ITI\Softec materials\ossama GA\GA_OssamaAhmed\GA_OssamaAhmed\bin\Debug\netcoreapp3.1\GA_OssamaAhmed.exe
+C:\Users\ossama59\ITI\Softec materials\ossama GA\GA_OssamaAhmed\GA_OssamaAhmed\bin\Debug\netcoreapp3.1\GA_OssamaAhmed.deps.json
+C:\Users\ossama59\ITI\Softec materials\ossama GA\GA_OssamaAhmed\GA_OssamaAhmed\bin\Debug\netcoreapp3.1\GA_OssamaAhmed.runtimeconfig.json
+C:\Users\ossama59\ITI\Softec materials\ossama GA\GA_OssamaAhmed\GA_OssamaAhmed\bin\Debug\netcoreapp3.1\GA_OssamaAhmed.runtimeconfig.dev.json
+C:\Users\ossama59\ITI\Softec materials\ossama GA\GA_OssamaAhmed\GA_OssamaAhmed\bin\Debug\netcoreapp3.1\GA_OssamaAhmed.dll
+C:\Users\ossama59\ITI\Softec materials\ossama GA\GA_OssamaAhmed\GA_OssamaAhmed\bin\Debug\netcoreapp3.1\GA_OssamaAhmed.pdb
+C:\Users\ossama59\ITI\Softec materials\ossama GA\GA_OssamaAhmed\GA_OssamaAhmed\obj\Debug\netcoreapp3.1\GA_OssamaAhmed.csproj.AssemblyReference.cache
+C:\Users\ossama59\ITI\Softec materials\ossama GA\GA_OssamaAhmed\GA_OssamaAhmed\obj\Debug\netcoreapp3.1\GA_OssamaAhmed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ossama59\ITI\Softec materials\ossama GA\GA_OssamaAhmed\GA_OssamaAhmed\obj\Debug\netcoreapp3.1\GA_OssamaAhmed.AssemblyInfoInputs.cache
+C:\Users\ossama59\ITI\Softec materials\ossama GA\GA_OssamaAhmed\GA_OssamaAhmed\obj\Debug\netcoreapp3.1\GA_OssamaAhmed.AssemblyInfo.cs
+C:\Users\ossama59\ITI\Softec materials\ossama GA\GA_OssamaAhmed\GA_OssamaAhmed\obj\Debug\netcoreapp3.1\GA_OssamaAhmed.csproj.CoreCompileInputs.cache
+C:\Users\ossama59\ITI\Softec materials\ossama GA\GA_OssamaAhmed\GA_OssamaAhmed\obj\Debug\netcoreapp3.1\GA_OssamaAhmed.dll
+C:\Users\ossama59\ITI\Softec materials\ossama GA\GA_OssamaAhmed\GA_OssamaAhmed\obj\Debug\netcoreapp3.1\GA_OssamaAhmed.pdb
+C:\Users\ossama59\ITI\Softec materials\ossama GA\GA_OssamaAhmed\GA_OssamaAhmed\obj\Debug\netcoreapp3.1\GA_OssamaAhmed.genruntimeconfig.cache
+C:\Users\ossama59\ITI\Softec materials\tpl flow GA Ossama Ahmed\GA_OssamaAhmed\bin\Debug\netcoreapp3.1\GA_OssamaAhmed.exe
+C:\Users\ossama59\ITI\Softec materials\tpl flow GA Ossama Ahmed\GA_OssamaAhmed\bin\Debug\netcoreapp3.1\GA_OssamaAhmed.deps.json
+C:\Users\ossama59\ITI\Softec materials\tpl flow GA Ossama Ahmed\GA_OssamaAhmed\bin\Debug\netcoreapp3.1\GA_OssamaAhmed.runtimeconfig.json
+C:\Users\ossama59\ITI\Softec materials\tpl flow GA Ossama Ahmed\GA_OssamaAhmed\bin\Debug\netcoreapp3.1\GA_OssamaAhmed.runtimeconfig.dev.json
+C:\Users\ossama59\ITI\Softec materials\tpl flow GA Ossama Ahmed\GA_OssamaAhmed\bin\Debug\netcoreapp3.1\GA_OssamaAhmed.dll
+C:\Users\ossama59\ITI\Softec materials\tpl flow GA Ossama Ahmed\GA_OssamaAhmed\bin\Debug\netcoreapp3.1\GA_OssamaAhmed.pdb
+C:\Users\ossama59\ITI\Softec materials\tpl flow GA Ossama Ahmed\GA_OssamaAhmed\obj\Debug\netcoreapp3.1\GA_OssamaAhmed.csproj.AssemblyReference.cache
+C:\Users\ossama59\ITI\Softec materials\tpl flow GA Ossama Ahmed\GA_OssamaAhmed\obj\Debug\netcoreapp3.1\GA_OssamaAhmed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ossama59\ITI\Softec materials\tpl flow GA Ossama Ahmed\GA_OssamaAhmed\obj\Debug\netcoreapp3.1\GA_OssamaAhmed.AssemblyInfoInputs.cache
+C:\Users\ossama59\ITI\Softec materials\tpl flow GA Ossama Ahmed\GA_OssamaAhmed\obj\Debug\netcoreapp3.1\GA_OssamaAhmed.AssemblyInfo.cs
+C:\Users\ossama59\ITI\Softec materials\tpl flow GA Ossama Ahmed\GA_OssamaAhmed\obj\Debug\netcoreapp3.1\GA_OssamaAhmed.csproj.CoreCompileInputs.cache
+C:\Users\ossama59\ITI\Softec materials\tpl flow GA Ossama Ahmed\GA_OssamaAhmed\obj\Debug\netcoreapp3.1\GA_OssamaAhmed.dll
+C:\Users\ossama59\ITI\Softec materials\tpl flow GA Ossama Ahmed\GA_OssamaAhmed\obj\Debug\netcoreapp3.1\GA_OssamaAhmed.pdb
+C:\Users\ossama59\ITI\Softec materials\tpl flow GA Ossama Ahmed\GA_OssamaAhmed\obj\Debug\netcoreapp3.1\GA_OssamaAhmed.genruntimeconfig.cache
